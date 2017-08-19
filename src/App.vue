@@ -33,7 +33,7 @@
         id: '114114',
         name: 'jinxiaoman',
         age: '19',
-        sex: 'nan'
+        sex: 'man'
       }
     },
     watch: {
